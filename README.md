@@ -76,9 +76,9 @@ Security: Ensure your MongoDB database is secured and accessible only to authori
 Troubleshooting: If you encounter any issues with starting the server or connecting to the database, check the console output for errors. Common issues include missing dependencies, incorrect MongoDB URI, or port conflicts.
 
 **How the initial endpoints should look**
-![http://localhost:8080/login](C:/Users/Tee Chang Zen/Documents/OneDrive/Year 2 Sem 2/Screenshot 2024-02-23 023310)
-![http://localhost:8080/lookup/BOSS_6FDFMJGFV6YM](C:/Users/Tee Chang Zen/Documents/OneDrive/Year 2 Sem 2/Screenshot 2024-02-23 023504)
-![http://localhost:8080/redeem](C:/Users/Tee Chang Zen/Documents/OneDrive/Year 2 Sem 2/Screenshot 2024-02-23 023528)
+![http://localhost:8080/login](httplocalhost8080.login.png)
+![http://localhost:8080/lookup/BOSS_6FDFMJGFV6YM](httplocalhost8080.lookup.BOSS_6FDFMJGFV6YM.png)
+![http://localhost:8080/redeem](httplocalhost8080.redeem.png)
 
 
 ## Usage
