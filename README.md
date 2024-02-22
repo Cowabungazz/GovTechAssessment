@@ -67,7 +67,7 @@ Copy code
 - npm run start
 
 **Verifying Installation**
-After starting the server, navigate to http://localhost:3000 (or the port you configured) in your web browser to verify that the application is running.
+After starting the server, navigate to http://localhost:8080 (or the port you configured) in your web browser to verify that the application is running.
 Perform a test login using one of the precreated admin accounts to ensure the database connection and authentication flow are working correctly.
 
 **Additional Notes**
@@ -76,9 +76,9 @@ Security: Ensure your MongoDB database is secured and accessible only to authori
 Troubleshooting: If you encounter any issues with starting the server or connecting to the database, check the console output for errors. Common issues include missing dependencies, incorrect MongoDB URI, or port conflicts.
 
 **How the initial endpoints should look**
-![Screenshot 2024-02-23 023310](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/b6b578c6-af70-4aaa-93ae-b2770db9f27d)
-![Screenshot 2024-02-23 023504](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/caded250-0f5d-435e-b356-41a305be405b)
-![Screenshot 2024-02-23 023528](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/544db3ca-38f2-4877-a15a-8499a2c9b2de)
+![http://localhost:8080/login](C:/Users/Tee Chang Zen/Documents/OneDrive/Year 2 Sem 2/Screenshot 2024-02-23 023310)
+![http://localhost:8080/lookup/BOSS_6FDFMJGFV6YM](C:/Users/Tee Chang Zen/Documents/OneDrive/Year 2 Sem 2/Screenshot 2024-02-23 023504)
+![http://localhost:8080/redeem](C:/Users/Tee Chang Zen/Documents/OneDrive/Year 2 Sem 2/Screenshot 2024-02-23 023528)
 
 
 ## Usage
