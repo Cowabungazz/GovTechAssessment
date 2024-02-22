@@ -35,7 +35,7 @@ Ensure you have the following installed on your system:
 - npm (v6 or later)
 - MongoDB (v4 or later)
 
-## Installation Steps
+## Installation Steps - npm run start - npm run test (to run unit tests)
 **Clone the Project Repository**
    - Use Git to clone the project's repository into your local machine.
    ```bash
