@@ -76,9 +76,9 @@ Security: Ensure your MongoDB database is secured and accessible only to authori
 Troubleshooting: If you encounter any issues with starting the server or connecting to the database, check the console output for errors. Common issues include missing dependencies, incorrect MongoDB URI, or port conflicts.
 
 **How the initial endpoints should look**
-![image](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/44fd9fc8-76f1-4bed-a5bf-82e04d65fe7b)
-![image](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/29208e1d-166c-4f50-8c13-e954a7eac484)
-![image](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/0992f4a9-008b-4ed3-aa70-91f026d010fd)
+![Screenshot 2024-02-23 023310](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/b6b578c6-af70-4aaa-93ae-b2770db9f27d)
+![Screenshot 2024-02-23 023504](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/caded250-0f5d-435e-b356-41a305be405b)
+![Screenshot 2024-02-23 023528](https://github.com/Cowabungazz/GovTechAssessment/assets/107359897/544db3ca-38f2-4877-a15a-8499a2c9b2de)
 
 
 ## Usage
