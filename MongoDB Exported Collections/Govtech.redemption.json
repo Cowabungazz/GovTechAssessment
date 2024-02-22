@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "65d47ead30f44e416f4fe412"
+  },
+  "staff_pass_id": "BOSS_6FDFMJGFV6YM",
+  "team_name": "GRYFFINDOR",
+  "redeemed_at": {
+    "$numberLong": "1708424877438"
+  },
+  "__v": 0
+}]

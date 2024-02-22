@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "65d46b394d001b031c221608"
+  },
+  "accessName": "admin1",
+  "authentication": {
+    "password": "admin1@Govtech-1",
+    "sessionToken": "f4561bbe2ce9bcf283417fbe4f69c91e15a1c5f582a11208a7194618ecfc7298dda85355f0c76c0e188a5add07cedd070eff1af171ffe62da9a6653254344fd0"
+  }
+}]
