@@ -1,4 +1,4 @@
-# GovTechAssessment
+# GovTechAssessment - Tee Chang Zen
 
 # Gift Redemption System for Christmas Season
 
@@ -65,6 +65,7 @@ Include variables for database connection or ports.
 bash
 Copy code
 - npm run start
+- npm run test (to run unit tests)
 
 **Verifying Installation**
 After starting the server, navigate to http://localhost:8080 (or the port you configured) in your web browser to verify that the application is running.
